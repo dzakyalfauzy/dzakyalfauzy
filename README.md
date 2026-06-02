@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHo5MzRyY3g2MmFoYmplMG01NGcwN2RtOGppM2JmM3h3ZHlrczFpbyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/13BwjdpxACoBPO/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd3dDRvaWk3N2h0NWV5ZnY2YmQ3NGQ2YXBtdXo3MWR0Z3lzMWhzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif)
 
 ### Tech Stack
 
