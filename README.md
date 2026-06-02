@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHo5MzRyY3g2MmFoYmplMG01NGcwN2RtOGppM2JmM3h3ZHlrczFpbyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/13BwjdpxACoBPO/giphy.gif)
+
 ### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
